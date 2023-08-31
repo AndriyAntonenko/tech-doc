@@ -2,7 +2,6 @@
 
 ## Table of content
 
-- [Introduction](#introduction)
 - [Motivation](#motivation)
 - [Terminology and entities](#terminology-and-entities)
 - [Workflow](#workflow)
@@ -16,10 +15,6 @@
   - [Withdrawals](#withdrawals)
   - [Benefits of The Approach](#benefits-of-the-approach)
   - [Conclusion](#conclusion)
-
-### Introduction
-
-Service S aims to revolutionize the process of handling ETH deposits from users, focusing on precise tracking, accurate reflection, and efficient withdrawals of user deposits. This technical document outlines the architectural solution designed to seamlessly manage user deposits, internal credits, and withdrawals within the Ethereum ecosystem. Through the integration of smart contracts and meticulous monitoring mechanisms, Service S ensures that user deposits are accurately reflected as credits, providing users with a reliable and user-friendly experience.
 
 ### Motivation
 
